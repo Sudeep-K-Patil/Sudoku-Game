@@ -7,8 +7,8 @@ Java Runtime Environment (JRE)
 How to Run the Game
 1. Compile the Java Files
 Open a terminal/command prompt and navigate to the project directory:
-
 javac Login.java
 javac Sudoku.java
+
 2. Run the Java File
 java Login
